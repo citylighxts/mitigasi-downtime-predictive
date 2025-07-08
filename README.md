@@ -11,15 +11,15 @@ Tujuan utama dari proyek ini adalah membantu sektor industri dalam **mengurangi 
 
 ## 🧠 Fitur Utama
 
-- ✅ Preprocessing otomatis untuk data numerik & kategorikal
-- ⚖️ Penanganan imbalance menggunakan:
+- Preprocessing otomatis untuk data numerik & kategorikal
+- Penanganan imbalance menggunakan:
   - SMOTE
   - SMOTEENN
   - SMOTETomek
-- 🌲 Model yang digunakan:
+- Model yang digunakan:
   - Random Forest
   - XGBoost
-- 📊 Evaluasi model dengan:
+- Evaluasi model dengan:
   - Confusion Matrix
   - Classification Report
   - ROC-AUC & PR-AUC
